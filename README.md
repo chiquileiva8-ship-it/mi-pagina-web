@@ -1,8 +1,3 @@
-Aquí tienes el código completo y optimizado de la página web interactiva. Para usarlo correctamente, copia todo el texto de abajo, guárdalo en tu computadora en un bloc de notas o editor de código con el nombre exacto de **`index.html`** y ábrelo en cualquier navegador (Chrome, Edge o Safari).
-
-Esta versión incluye la interfaz de alto impacto y full color, el título vibrante, la pregunta inicial sobre el conocimiento de la historia (con su respectiva opción de explicación ilustrada si no la conocen), el test diagnóstico, los **20 niveles interactivos con 4 opciones por nivel** (2 constructivas y 2 de riesgo), el sistema de **3 vidas (❤️)**, las pistas funcionales del **Búho Sabio (🦉)** y el **Módulo de Reflexión Final** que muestra el historial de decisiones del usuario.
-
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -488,5 +483,3 @@ Esta versión incluye la interfaz de alto impacto y full color, el título vibra
     </script>
 </body>
 </html>
-
-```
